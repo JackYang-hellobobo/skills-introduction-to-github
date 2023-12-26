@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Get started using GitHub in less than an hour._ _已经入门学习完毕，现已弃用 Depreacted_
 
 </header>
 
